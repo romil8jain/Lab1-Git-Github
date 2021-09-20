@@ -4,5 +4,6 @@ print("c3")
 print("c4")
 =======
 print("c1")
+print("c2")
 
 >>>>>>> c1
